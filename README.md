@@ -12,3 +12,4 @@ This repository is configured for GitHub Pages.
 - Scientific instrument design
 - Production-tool interfaces
 - Design approach and professional experience
+- Downloadable PDF résumé
